@@ -1,4 +1,6 @@
-math 
 numpy 
 pandas
 matplotlib
+scikit-learn
+
+
